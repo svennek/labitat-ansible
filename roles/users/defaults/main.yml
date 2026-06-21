@@ -87,6 +87,12 @@ userdata:
     authorized_keys:
     - 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDz66Zb7cGl7+QFZOQPwnxIjqYNmIe7MtuPdK3aDQMot joshbuddy@gmail.com'
 
+  'svenne':
+    name: 'Svenne Krap'
+    uid: 2026
+    authorized_keys:
+    - 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILAoMMGQ1271etDpi4g/18AV2kmv8xzsK6Kkf0kXuTIT svenne@krap.dk'
+
   'rasmis': {}
 
   'jobbe': {}
